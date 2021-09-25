@@ -1,0 +1,17 @@
+body{
+    background-color: coral;
+    color: white;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy
+{
+color: yellow;
+}
+#camera{
+    border: 2px dashed blanchedalmond;
+    width: 350px;
+    height: 300px;
+}
+.heading{
+    width: 80%;
+font-size: 22px;
+}
